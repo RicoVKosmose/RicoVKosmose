@@ -6,9 +6,21 @@
 
 <br> **My Startup is an application that will help car owners, without preliminary financial costs, to choose the best option for tuning the appearance of the car. The application implies an online constructor in which it is possible to pick up car body elements for your car with subsequent purchase. The application also presents itself as a marketplace of goods that includes a catalog of body parts for purchase.**
 
-<h3 style="color:#0000FF"; align="center" >  1. Subject area: Automotive industry (Tuning).</h3>
+<h3  align="center" >  1. Subject area: Automotive industry (Tuning).</h3>
+<p> <h3 align="center">2.Opportunities</h3>
+  
+* Check the availability of the part on the car
 
-<p align="center"> <h3 align="center"> 2. Problems in the field of:</h3>
+* Instant online purchase of body parts from the assortment.
+  
+* Free choice of body parts for car tuning.
+
+* The ability to select any car from the list of possible ones for subsequent online tuning.
+
+</p>
+
+
+<p> <h3 align="center"> 3. Problems in the field of:</h3>
 
 * No preview of the final result after tuning.
 
@@ -18,7 +30,8 @@
 </p>
 
 
-<p> <h3 align="center"> 3. Problem solving methods:</h3>
+
+<p> <h3 align="center"> 4. Problem solving methods:</h3>
 
 
 * Development and provision of an extensive library of body elements.
